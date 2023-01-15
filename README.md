@@ -7,8 +7,8 @@
 <p>-Data Science Beginner</p>
 <p>-I’m currently learning SQL</p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=onedark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=analusz&theme=onedark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=onedark" width = 300>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=analusz&theme=onedark&hide_border=true" width = 300>
 </p>
 </div>
 
