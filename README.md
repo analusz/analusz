@@ -40,5 +40,6 @@ I like coffee and music</p>
 </div>
 
 ##
-
+<div>
 ![Snake animation](https://github.com/analusz/analusz/blob/output/github-contribution-grid-snake.svg)
+</div>
