@@ -4,8 +4,9 @@
 
 ---
 <div>
-<p>-Data Science Beginner</p>
-<p>-I’m currently learning SQL</p>
+<p>-Data Science Beginner
+  <br>
+-I’m currently learning SQL</p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=onedark" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=analusz&theme=onedark&hide_border=true" width = 400>
@@ -24,11 +25,11 @@
 <div>
 <img src="https://ckeditor.com/apps/ckfinder/userfiles/files/8b35fef55fba1a201c9c7a11d3ec3d64.gif" align="right" style="float:right; height:263px; width:350px" />
 <p><strong><span style="color:#999999"><span style="font-size:16px">😎About me</span></span></strong></p>
-<p>I&#39;m from Brazil - RJ</p>
-
-<p>I Study at the Federal University of Rio de Janeiro</p>
-
-<p>I like coffee and music</p>
+<p>I&#39;m from Brazil - RJ
+  <br>
+I Study at the Federal University of Rio de Janeiro
+  <br>
+I like coffee and music</p>
 </div>
 
 ##
@@ -39,3 +40,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/analusz/analusz/blob/output/github-contribution-grid-snake.svg)
