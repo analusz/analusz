@@ -1,15 +1,15 @@
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4size=35&center=true&vCenter=true&width=1000px&lines=HELLO,+MY+NAME+is+Ana+Luiza;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img src="icons_and_images/github.gif" align="right" style="float:right; height:150px; width:150px" />
 
-### Hi, I'm Ana Luiza 👋 
-
 ---
+
 <div>
 <p>-Data Science Beginner
   <br>
 -I’m currently learning SQL</p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=onedark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=analusz&theme=onedark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=transparent" width=400px />
+  <img src = "https://streak-stats.demolab.com/?user=analusz&theme=transparent" width=425px />
 </p>
 </div>
 
@@ -38,5 +38,3 @@ I like coffee and music</p>
 <p><strong><span style="color:#999999"><span style="font-size:16px">😊Connect me</span></span></strong></p>
 <p><a href="https://www.instagram.com/ana_luiza.sz/" target="_blank"><img alt="" src="icons_and_images/instagram_icon.png.webp" style="height:35px; width:35px" /></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ana-luiza-2a16501b1" target="_blank"><img alt="" src="icons_and_images/linkedin_icon.png" style="height:35px; width:35px" /></a></p>
 </div>
-
-##
