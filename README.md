@@ -1,40 +1,21 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4size=35&center=true&vCenter=true&width=1000px&lines=HELLO,+MY+NAME+is+Ana+Luiza;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img src="icons_and_images/github.gif" align="right" style="float:right; height:150px; width:150px" />
-
----
-
-<div>
-<p>-Data Science Beginner
-  <br>
--I’m currently learning SQL</p>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4size=35&center=true&vCenter=true&width=1000px&lines=HELLO,+MY+NAME+is+Ana+Luiza;I'm+Data+Science+Beginner;Be+Welcome!+:%29)](https://git.io/typing-svg)
+##
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=transparent" width=325px />
-  <img src = "https://streak-stats.demolab.com/?user=analusz&theme=transparent" width=330px />
+  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=transparent&layout=compact&hide_border=true" width=330px />
+  <img src = "https://streak-stats.demolab.com/?user=analusz&theme=transparent&layout=compact&hide_border=true" width=340px />
 </p>
-</div>
-
-##
-
-<div>
-<p><strong><span style="color:#999999"><span style="font-size:16px">🔧Languages and tools</span></span></strong></p>
-<p><img alt="Python" src="icons_and_images/python_icon.png" style="height:35px; width:35px" />&nbsp;&nbsp; <img alt="SQL" src="icons_and_images/sql_icon.png" style="height:35px; width:35px" />&nbsp;&nbsp; <img alt="HTML" src="icons_and_images/html_icon.png" style="height:35px; width:35px" /></p>
-</div>
-
-##
-
-<div>
-<img src="icons_and_images/woman_coding.gif" align="right" style="float:right; height:263px; width:350px" />
-<p><strong><span style="color:#999999"><span style="font-size:16px">😎About me</span></span></strong></p>
-<p>I&#39;m from Brazil - RJ
-  <br>
-I Study at the Federal University of Rio de Janeiro
-  <br>
-I like coffee and music</p>
-</div>
-
-##
-
-<div>
-<p><strong><span style="color:#999999"><span style="font-size:16px">😊Connect me</span></span></strong></p>
-<p><a href="https://www.instagram.com/ana_luiza.sz/" target="_blank"><img alt="" src="icons_and_images/instagram_icon.png.webp" style="height:35px; width:35px" /></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ana-luiza-2a16501b1" target="_blank"><img alt="" src="icons_and_images/linkedin_icon.png" style="height:35px; width:35px" /></a></p>
-</div>
+<br>
+<p><img align="right"alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/prog.gif" style="height:208px; width:421px" /></p>
+<p>
+  <strong>🔧Languages and tools</strong> </p>
+  <p>
+  <img src="https://img.shields.io/badge/HTML5-194360?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-194360?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-194360?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-194360?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  </p>
+  <p>
+  <strong>☕Connect Me</strong> </p>
+  <p><a href="https://www.instagram.com/ana_luiza.sz/"><img src="https://img.shields.io/badge/Instagram-194360?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/ana-luiza-2a16501b1"><img src="https://img.shields.io/badge/LinkedIn-194360?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
