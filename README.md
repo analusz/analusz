@@ -5,7 +5,7 @@
   <img src = "https://streak-stats.demolab.com/?user=analusz&theme=transparent&layout=compact&hide_border=true" width=340px />
 </p>
 <br>
-<p><img align="right"alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/prog.gif" style="height:208px; width:421px" /></p>
+<p><img align="right"alt="" src="prog.gif" style="height:208px; width:421px" /></p>
 <p>
   <strong>🔧Languages and tools</strong> </p>
   <p>
