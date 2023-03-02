@@ -8,8 +8,8 @@
   <br>
 -I’m currently learning SQL</p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=transparent" width=400px />
-  <img src = "https://streak-stats.demolab.com/?user=analusz&theme=transparent" width=425px />
+  <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=transparent" width=350px />
+  <img src = "https://streak-stats.demolab.com/?user=analusz&theme=transparent" width=355px />
 </p>
 </div>
 
