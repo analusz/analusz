@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4size=35&center=true&vCenter=true&width=1000px&lines=HELLO,+MY+NAME+is+Ana+Luiza;I'm+Data+Science+Beginner;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4size=35&center=true&vCenter=true&width=1000px&lines=HELLO,+MY+NAME+is+Ana+Luiza;I'm+Data+Science+Beginner+Economics+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=analusz&show_icons=true&theme=transparent&layout=compact&hide_border=true" width=360px />
