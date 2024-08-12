@@ -16,7 +16,7 @@
   </p>
   <p>
   <strong>☕Connect Me</strong> </p>
-  <p><a href="https://www.instagram.com/ana_luiza.sz/"><img src="https://img.shields.io/badge/Instagram-194360?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <p><a href="https://www.instagram.com/analu.szribeiro/"><img src="https://img.shields.io/badge/Instagram-194360?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ana-luiza-2a16501b1"><img src="https://img.shields.io/badge/LinkedIn-194360?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
