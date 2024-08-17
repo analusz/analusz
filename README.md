@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/CSS3-194360?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-194360?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-194360?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-194360?style=for-the-badge&logo=javascript&logoColor=white"/>
+  
   </p>
   <p>
   <strong>☕Connect Me</strong> </p>
