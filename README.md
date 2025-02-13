@@ -19,7 +19,7 @@
 <p>
   <strong>☕Connect me</strong> </p>
 <p>
-  <a href="www.linkedin.com/in/ana-luiza-souza-ribeiro-" target="_blank">
+  <a href="www.linkedin.com/in/ana-luiza-souza-ribeiro-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-F8EFD4?style=for-the-badge&logo=linkedin&logoColor=783C00" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/analu.szribeiro/" target="_blank">
