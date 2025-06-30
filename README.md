@@ -26,6 +26,12 @@
   <a href="https://www.instagram.com/analu.szribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-F8EFD4?style=for-the-badge&logo=instagram&logoColor=783C00">
   </a>
+  <br><br><br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analusz&theme=solarized" alt="Resumo do perfil de Analu"/>
+</p>
+
+
   
 
 
