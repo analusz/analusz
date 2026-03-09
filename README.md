@@ -41,6 +41,7 @@ analisar bases de dados do mundo real.
 </p>
 
 
+
 <p align="center">
   <strong>☕ Social</strong> 
 </p>
