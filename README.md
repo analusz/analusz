@@ -8,20 +8,21 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/gBxP6oJ.gif" width="500">
+  <img src="https://i.redd.it/5c612iy7q5ia1.gif" width="500">
 </p>
 
 
 
 <p align="center"> <img src="https://img.shields.io/static/v1?label=Overview&message=ANALUIZA&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub"> <br> 
 <p align="center">
-  <strong >🔧 Languages and tools.</strong> </p>
+  <h2 align="center">🔧 Linguagens e ferramentas</h2>
   <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+       <br>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=r&logoColor=white"/>
@@ -41,7 +42,7 @@ analisar bases de dados do mundo real.
 
 
 <p align="center">
-  <strong>☕ Connect me!</strong> 
+  <strong>☕ Social</strong> 
 </p>
 
 <p align="center">
