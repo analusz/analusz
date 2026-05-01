@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9ca3af&center=true&width=500&lines=Hello%2C+MY+NAME+is+Ana+Luiza;I'm+an+economics+student;Be+Welcome!+:%29" 
-      alt="Typing SVG"
-    />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/analusz/analusz/blob/main/assets/banner_profile.png" width="1024px" height="300px">
@@ -70,4 +62,11 @@ Além disso, possuo experiência na construção de <b>dashboards interativos no
   </a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9ca3af&center=true&width=500&lines=Obrigada+pela+visita%2C+Siga+nas+Redes!;Projetos+abertos;Seja+Bem-vindo(a)+:%29" 
+      alt="Typing SVG"
+    />
+  </a>
+</p>
