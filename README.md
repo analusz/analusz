@@ -40,6 +40,8 @@ Além disso, possuo experiência na construção de <b>dashboards interativos no
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -47,6 +49,9 @@ Além disso, possuo experiência na construção de <b>dashboards interativos no
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-000000.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 
