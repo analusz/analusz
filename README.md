@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/analusz/analusz/blob/main/assets/wallpaper.jpg" width="1024px" height="300px">
+  <img src="https://github.com/analusz/analusz/blob/main/assets/wallpaper.jpg" width="1024px" height="250px">
 </p>
 
 <div>
@@ -12,7 +12,7 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<img src="https://github.com/analusz/analusz/blob/main/assets/baixados.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="left">
+<img src="https://github.com/analusz/analusz/blob/main/assets/baixados.jpg" alt="ilustração de um computador" min-width="290px" max-width="290px" width="290px" align="left">
 
 
  <div align="left" min-width="300px" max-width="300px" width="300px">
